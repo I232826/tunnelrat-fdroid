@@ -1,0 +1,162 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "Tunnelrat"
+    },
+    "description": {
+      "en-US": "The official F-Droid repository for Tunnelrat: control your Ubuntu PC from your Android phone. Same signed APKs as the GitHub releases."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "e6c3539b2a21646c5aed086924b15132aa71b3d8a56936148e3d31c0164a73f1",
+        "size": 55097
+      }
+    },
+    "address": "https://i232826.github.io/tunnelrat-fdroid/repo",
+    "timestamp": 1794855485853,
+    "categories": {
+      "Connectivity": {
+        "name": {
+          "en-US": "Connectivity"
+        }
+      },
+      "System": {
+        "name": {
+          "en-US": "System"
+        }
+      }
+    }
+  },
+  "packages": {
+    "dev.tunnelrat": {
+      "metadata": {
+        "added": 1794855469366,
+        "categories": [
+          "Connectivity",
+          "System"
+        ],
+        "changelog": "https://github.com/I232826/tunnelrat/releases",
+        "issueTracker": "https://github.com/I232826/tunnelrat/issues",
+        "lastUpdated": 1794855469366,
+        "license": "GPL-3.0-or-later",
+        "sourceCode": "https://github.com/I232826/tunnelrat",
+        "webSite": "https://github.com/I232826/tunnelrat",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/dev.tunnelrat/en-US/phoneScreenshots/1.png",
+                "sha256": "5fb6fa07e2cb2c7043ee0c6a0b2ddfb64c307afc6e1ac253ee7007833cb9bd0b",
+                "size": 103888
+              },
+              {
+                "name": "/dev.tunnelrat/en-US/phoneScreenshots/2.png",
+                "sha256": "99ef51c137477536c3459c222ff49dee84472dcc4f5de7bfc70f960cfadf488d",
+                "size": 64836
+              },
+              {
+                "name": "/dev.tunnelrat/en-US/phoneScreenshots/3.png",
+                "sha256": "1bd75a549398b33f339e19321971d8fa5bee6897227889f76cfeded783a98b05",
+                "size": 124052
+              },
+              {
+                "name": "/dev.tunnelrat/en-US/phoneScreenshots/4.png",
+                "sha256": "4d5527a962b01d19538ddbf5b47774e3e5c410d98eadfc123b64d0b276979288",
+                "size": 181218
+              }
+            ]
+          }
+        },
+        "authorName": "anyrat",
+        "name": {
+          "en-US": "Tunnelrat"
+        },
+        "summary": {
+          "en-US": "Control your Ubuntu PC from your phone: touchpad, power, screens, files"
+        },
+        "description": {
+          "en-US": "<p>Tunnelrat links your Android phone with your Ubuntu PCs (GNOME). It talks only to PCs you paired with a QR code, over an encrypted connection (mutual TLS with pinned certificates), on your own network or over a VPN such as Tailscale. No accounts, no cloud, no tracking.</p>\n\n<p><b>Needs the Tunnelrat PC part</b> (free software, in the same repository) installed on each PC: <tt>pc/setup.sh</tt> sets it up.</p>\n\n<p><b>Control the PC</b></p>\n<ul>\n<li>Touchpad and keyboard: tap to click, two-finger scroll, three-finger swipes for the overview and workspaces; typing follows the PC's keyboard layout</li>\n<li>Wake on LAN, lock, screen off, restart and shut down; log in at the PC's login screen from the phone</li>\n<li>Media controls with the playing track and volume (keeps your left/right balance)</li>\n<li>Presentation mode: big next/previous buttons, volume keys as a clicker, a pointer you move by tilting the phone</li>\n</ul>\n\n<p><b>Screens</b></p>\n<ul>\n<li>See and control the PC's screen on the phone</li>\n<li>Show the phone's screen on the PC and control it with the PC's mouse and keyboard</li>\n</ul>\n\n<p><b>Share</b></p>\n<ul>\n<li>The phone as a drive on the PC: the whole phone or one folder</li>\n<li>One clipboard across your phone and PCs</li>\n<li>Send links and files from any app to the PC</li>\n<li>Phone notifications and battery on the PC; reply to messages from the PC</li>\n<li>Quick settings tiles and a home screen widget to wake or shut down the PC</li>\n</ul>\n\n<p>Pair several PCs: the phone stays connected to all of them and finds them again on the network when their address changes.</p>\n\n<p><b>Permissions, and why:</b> camera (scanning the pairing code), nearby devices / local network (reaching the PC), notifications (the connection status), notification access (only if you turn on sharing notifications), all files access (only for the whole-phone drive), screen capture (only while you show the phone on the PC), and an optional accessibility service that lets the PC tap and type on the phone, active only while you show the phone's screen on the PC.</p>\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/dev.tunnelrat/en-US/icon_iKtOTZGxJQfvKTFDqjUNnbHdWaNoCukdmTF5hdobtqA=.png",
+            "sha256": "88ab4e4d91b12507ef293143aa350d9db1dd59a3680ae91d99317985da1bb6a0",
+            "size": 53538
+          }
+        },
+        "preferredSigner": "de05b2d9af7639f1611337bd7ccb255d5c58166298265d2bd1d643fb90ea4b6e"
+      },
+      "versions": {
+        "a396cdda1cae85ae0bcc56dffd61394ef9b230e381534a9cd25286ebe08f67f4": {
+          "added": 1794855469366,
+          "file": {
+            "name": "/dev.tunnelrat_2.apk",
+            "sha256": "a396cdda1cae85ae0bcc56dffd61394ef9b230e381534a9cd25286ebe08f67f4",
+            "size": 3818040
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.2.0",
+            "versionCode": 2,
+            "usesSdk": {
+              "minSdkVersion": 29,
+              "targetSdkVersion": 37
+            },
+            "signer": {
+              "sha256": [
+                "de05b2d9af7639f1611337bd7ccb255d5c58166298265d2bd1d643fb90ea4b6e"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_LOCAL_NETWORK"
+              },
+              {
+                "name": "dev.tunnelrat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

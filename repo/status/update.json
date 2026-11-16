@@ -1,0 +1,45 @@
+{
+  "/etc/issue.net": "Debian GNU/Linux 13",
+  "antiFeatures": {},
+  "apksigner": "/usr/bin/apksigner",
+  "archivePolicy0": [],
+  "commandLine": [
+    "/home/vagrant/fdroidserver/fdroid update",
+    "--pretty"
+  ],
+  "disabled": [],
+  "endTimestamp": 1794855487666,
+  "failedBuilds": {},
+  "fdroidserver": {
+    "commitId": "fc2c86473e66a44fc641f403c338a8b2cccfad88",
+    "deletedFiles": [],
+    "isDirty": false,
+    "modifiedFiles": [],
+    "untrackedFiles": []
+  },
+  "jarsigner": "/usr/lib/jvm/java-21-openjdk-amd64/bin/jarsigner",
+  "keytool": "/usr/lib/jvm/java-21-openjdk-amd64/bin/keytool",
+  "needsUpdate": [
+    "dev.tunnelrat"
+  ],
+  "noPackages": [
+    "dev.tunnelrat"
+  ],
+  "noUpdateCheck": [
+    "dev.tunnelrat"
+  ],
+  "stages": {
+    "archive_old_apks archive": 1794855484030,
+    "delete_disabled_builds": 1794855484030,
+    "index.make archive": 1794855484031,
+    "index.make repo": 1794855485853,
+    "prepare_apps archive": 1794855484031,
+    "prepare_apps repo": 1794855485851,
+    "process_apks": 1794855484030,
+    "read_added_date_from_all_apks": 1794855484030,
+    "remove_apks": 1794855484030,
+    "scan_repo_files": 1794855484030
+  },
+  "startTimestamp": 1794855483000,
+  "subcommand": "update"
+}

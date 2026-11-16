@@ -1,0 +1,7 @@
+# Only the published repository goes to GitHub. Never the signing key or config.
+*
+!.gitignore
+!.nojekyll
+!README.md
+!repo/
+!repo/**
