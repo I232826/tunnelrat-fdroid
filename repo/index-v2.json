@@ -14,7 +14,7 @@
       }
     },
     "address": "https://i232826.github.io/tunnelrat-fdroid/repo",
-    "timestamp": 1794855485853,
+    "timestamp": 1794855550125,
     "categories": {
       "Connectivity": {
         "name": {
@@ -31,14 +31,14 @@
   "packages": {
     "dev.tunnelrat": {
       "metadata": {
-        "added": 1794855469366,
+        "added": 1794855547418,
         "categories": [
           "Connectivity",
           "System"
         ],
         "changelog": "https://github.com/I232826/tunnelrat/releases",
         "issueTracker": "https://github.com/I232826/tunnelrat/issues",
-        "lastUpdated": 1794855469366,
+        "lastUpdated": 1794855547418,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://github.com/I232826/tunnelrat",
         "webSite": "https://github.com/I232826/tunnelrat",
@@ -89,9 +89,9 @@
       },
       "versions": {
         "a396cdda1cae85ae0bcc56dffd61394ef9b230e381534a9cd25286ebe08f67f4": {
-          "added": 1794855469366,
+          "added": 1794855547418,
           "file": {
-            "name": "/dev.tunnelrat_2.apk",
+            "name": "/tunnelrat-0.2.0.apk",
             "sha256": "a396cdda1cae85ae0bcc56dffd61394ef9b230e381534a9cd25286ebe08f67f4",
             "size": 3818040
           },

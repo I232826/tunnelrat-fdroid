@@ -6,12 +6,26 @@
         "size": 55097
       }
     },
-    "timestamp": 1794855485853,
+    "timestamp": 1794855550125,
     "categories": {
       "repo": null
     }
   },
   "packages": {
-    "e6c3539b2a21646c5aed086924b15132aa71b3d8a56936148e3d31c0164a73f1": null
+    "e6c3539b2a21646c5aed086924b15132aa71b3d8a56936148e3d31c0164a73f1": null,
+    "dev.tunnelrat": {
+      "metadata": {
+        "added": 1794855547418,
+        "lastUpdated": 1794855547418
+      },
+      "versions": {
+        "a396cdda1cae85ae0bcc56dffd61394ef9b230e381534a9cd25286ebe08f67f4": {
+          "added": 1794855547418,
+          "file": {
+            "name": "/tunnelrat-0.2.0.apk"
+          }
+        }
+      }
+    }
   }
 }

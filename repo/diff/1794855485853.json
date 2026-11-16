@@ -1,0 +1,21 @@
+{
+  "repo": {
+    "timestamp": 1794855550125
+  },
+  "packages": {
+    "dev.tunnelrat": {
+      "metadata": {
+        "added": 1794855547418,
+        "lastUpdated": 1794855547418
+      },
+      "versions": {
+        "a396cdda1cae85ae0bcc56dffd61394ef9b230e381534a9cd25286ebe08f67f4": {
+          "added": 1794855547418,
+          "file": {
+            "name": "/tunnelrat-0.2.0.apk"
+          }
+        }
+      }
+    }
+  }
+}
