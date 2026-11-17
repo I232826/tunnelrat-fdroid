@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1794925559355,
+    "timestamp": 1794926048495,
     "version": 30000,
     "name": "Tunnelrat",
     "icon": "icon.png",
@@ -36,7 +36,8 @@
             "1.png",
             "2.png",
             "3.png",
-            "4.png"
+            "4.png",
+            "5.png"
           ],
           "summary": "Control your Ubuntu PC from your phone: touchpad, power, screens, files",
           "whatsNew": "- New look: cream by day, ink in the dark, following your phone's setting\n- New fonts (Inter, Space Grotesk), outlined cards, red only where it matters\n- The widget follows light and dark too\n- PC app: the same look, with its own Appearance setting\n"

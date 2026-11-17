@@ -8,16 +8,14 @@
     "--pretty"
   ],
   "disabled": [],
-  "endTimestamp": 1794925561182,
+  "endTimestamp": 1794926050310,
   "failedBuilds": {},
   "fdroiddata": {
-    "commitId": "aeb266bee7145f613ac2ee7d5a75a14ba9bc1779",
+    "commitId": "45e6ce7dbd5128d8ea7d50e1f893cbdd332a6613",
     "deletedFiles": [],
     "isDirty": false,
     "modifiedFiles": [],
-    "untrackedFiles": [
-      "repo/tunnelrat-0.4.0.apk"
-    ]
+    "untrackedFiles": []
   },
   "fdroidserver": {
     "commitId": "fc2c86473e66a44fc641f403c338a8b2cccfad88",
@@ -38,17 +36,17 @@
     "dev.tunnelrat"
   ],
   "stages": {
-    "archive_old_apks archive": 1794925556786,
-    "delete_disabled_builds": 1794925556473,
-    "index.make archive": 1794925556786,
-    "index.make repo": 1794925559355,
-    "prepare_apps archive": 1794925556786,
-    "prepare_apps repo": 1794925558646,
-    "process_apks": 1794925556473,
-    "read_added_date_from_all_apks": 1794925556786,
-    "remove_apks": 1794925556785,
-    "scan_repo_files": 1794925556785
+    "archive_old_apks archive": 1794926045911,
+    "delete_disabled_builds": 1794926045910,
+    "index.make archive": 1794926045912,
+    "index.make repo": 1794926048494,
+    "prepare_apps archive": 1794926045912,
+    "prepare_apps repo": 1794926047733,
+    "process_apks": 1794926045910,
+    "read_added_date_from_all_apks": 1794926045911,
+    "remove_apks": 1794926045911,
+    "scan_repo_files": 1794926045911
   },
-  "startTimestamp": 1794925556000,
+  "startTimestamp": 1794926045000,
   "subcommand": "update"
 }

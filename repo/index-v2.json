@@ -14,7 +14,7 @@
       }
     },
     "address": "https://i232826.github.io/tunnelrat-fdroid/repo",
-    "timestamp": 1794925559355,
+    "timestamp": 1794926048495,
     "categories": {
       "Connectivity": {
         "name": {
@@ -47,23 +47,28 @@
             "en-US": [
               {
                 "name": "/dev.tunnelrat/en-US/phoneScreenshots/1.png",
-                "sha256": "5fb6fa07e2cb2c7043ee0c6a0b2ddfb64c307afc6e1ac253ee7007833cb9bd0b",
-                "size": 103888
+                "sha256": "a59278901d472962af869b209b9bfbf7ff08e4ef139cbb01a7bfc84a84c28e1e",
+                "size": 112107
               },
               {
                 "name": "/dev.tunnelrat/en-US/phoneScreenshots/2.png",
-                "sha256": "99ef51c137477536c3459c222ff49dee84472dcc4f5de7bfc70f960cfadf488d",
-                "size": 64836
+                "sha256": "acf91d89699dd766531c65a72a7e830e848a6adb23f6f3473f5918c7f9278b87",
+                "size": 113835
               },
               {
                 "name": "/dev.tunnelrat/en-US/phoneScreenshots/3.png",
-                "sha256": "1bd75a549398b33f339e19321971d8fa5bee6897227889f76cfeded783a98b05",
-                "size": 124052
+                "sha256": "d69d4b4cb1e1d45c20c958ff8b54b423a95ab08fd174bfb70657f132bb14b2dc",
+                "size": 139132
               },
               {
                 "name": "/dev.tunnelrat/en-US/phoneScreenshots/4.png",
-                "sha256": "4d5527a962b01d19538ddbf5b47774e3e5c410d98eadfc123b64d0b276979288",
-                "size": 181218
+                "sha256": "be00618ef1bc16d2545982f32980eb9ac0d2e2599395cf7d6e66c22bc267ed77",
+                "size": 59134
+              },
+              {
+                "name": "/dev.tunnelrat/en-US/phoneScreenshots/5.png",
+                "sha256": "6cc99442bfaf4f74ebf44044d68cef300ca75cd4444c3f525a96d260f3a5faa3",
+                "size": 114377
               }
             ]
           }
