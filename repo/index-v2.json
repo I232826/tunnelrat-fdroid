@@ -14,7 +14,7 @@
       }
     },
     "address": "https://i232826.github.io/tunnelrat-fdroid/repo",
-    "timestamp": 1794919436775,
+    "timestamp": 1794925559355,
     "categories": {
       "Connectivity": {
         "name": {
@@ -38,7 +38,7 @@
         ],
         "changelog": "https://github.com/I232826/tunnelrat/releases",
         "issueTracker": "https://github.com/I232826/tunnelrat/issues",
-        "lastUpdated": 1794919433928,
+        "lastUpdated": 1794925556472,
         "license": "GPL-3.0-or-later",
         "sourceCode": "https://github.com/I232826/tunnelrat",
         "webSite": "https://github.com/I232826/tunnelrat",
@@ -88,6 +88,81 @@
         "preferredSigner": "de05b2d9af7639f1611337bd7ccb255d5c58166298265d2bd1d643fb90ea4b6e"
       },
       "versions": {
+        "d297559a42686ed32b2425e26553be12b318e398e27e6aa4f17bb59439ace09d": {
+          "added": 1794925556472,
+          "file": {
+            "name": "/tunnelrat-0.4.0.apk",
+            "sha256": "d297559a42686ed32b2425e26553be12b318e398e27e6aa4f17bb59439ace09d",
+            "size": 4456276
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "0.4.0",
+            "versionCode": 4,
+            "usesSdk": {
+              "minSdkVersion": 29,
+              "targetSdkVersion": 37
+            },
+            "signer": {
+              "sha256": [
+                "de05b2d9af7639f1611337bd7ccb255d5c58166298265d2bd1d643fb90ea4b6e"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.BLUETOOTH_CONNECT"
+              },
+              {
+                "name": "android.permission.BLUETOOTH",
+                "maxSdkVersion": 30
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.ACCESS_LOCAL_NETWORK"
+              },
+              {
+                "name": "dev.tunnelrat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "02dc7df16e560442fe1e1952490388de62f10063f53902fa8b51bffd266ad768": {
           "added": 1794919433928,
           "file": {
